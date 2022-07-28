@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talks on</title><link>https://pavithraes.me/docs/talks/</link><description>Recent content in Talks on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:48:23 +0000</lastBuildDate><atom:link href="https://pavithraes.me/docs/talks/index.xml" rel="self" type="application/rss+xml"/><item><title>Talks: 2022</title><link>https://pavithraes.me/docs/talks/2022/</link><pubDate>Sat, 04 Jun 2022 20:32:00 +0530</pubDate><guid>https://pavithraes.me/docs/talks/2022/</guid><description>Scaling Data Science with Dask # PyData Delhi Meetup - 21st May
+My first in-person presentation since the pandemic!
+This is an introductory Dask tutorial for folks new to scalable computing. We cover the basics of parallel and distributed computing, talk about Dask + how Dask works, and check out the Dask DataFrame API.
+Recording: (will be added soon)
+Material: GitHub repo</description></item><item><title>Talks: 2021</title><link>https://pavithraes.me/docs/talks/2021/</link><pubDate>Mon, 12 Apr 2021 00:21:24 +0530</pubDate><guid>https://pavithraes.me/docs/talks/2021/</guid><description>Scaling Data Science with Dask # PyLadies Dublin Meetup - 17th November
+A 30-min talk about scalable computing and Dask.
+Recording: YouTube
+Material: GitHub repo
+Data Science and Machine Learning at Scale # Open Data Science Conference (APAC) - 15th September
+A 3-hour tutorial about scaling data science and machine learning workflows, to larger datasets and larger models, using Dask.
+Material: GitHub repo
+Abstract: Conference website
+Scalable Data Science with Dask # PyLadies Berlin Meetup - 6th April</description></item><item><title>Talks: 2020</title><link>https://pavithraes.me/docs/talks/2020/</link><pubDate>Mon, 12 Apr 2021 00:22:59 +0530</pubDate><guid>https://pavithraes.me/docs/talks/2020/</guid><description>Introduction to Data Visualization with Bokeh # PyLadies Hyderabad Meetup - 30st August
+Introductory workshop on data visualization with Bokeh. (My first hands-on session, ever!)
+Recording: YouTube
+Material: GitHub repo
+Writing a Winning Proposal # Women of Open Source Community Africa and She Code Africa Meetup - 9th August
+I gave a talk on writing good proposals for open source programs like Google Summer of Code, Outreachy, and Google Season of Docs.</description></item><item><title>Bio</title><link>https://pavithraes.me/docs/talks/bio/</link><pubDate>Sun, 13 Feb 2022 18:27:59 +0530</pubDate><guid>https://pavithraes.me/docs/talks/bio/</guid><description>Pavithra works as a Community Engagement Manager at Coiled, where she helps support Dask users and contributors. She also contributes to the Bokeh project and has worked on administrating Wikimedia&amp;rsquo;s open source outreach programs in the past. In her spare time, she enjoys a good book and hot coffee. :)
+Picture # Socials # Twitter: https://twitter.com/pavithraes
+LinkedIn: https://www.linkedin.com/in/pavithraes
+GitHub: https://github.com/pavithraes
+Name Pronounciation #</description></item></channel></rss>
