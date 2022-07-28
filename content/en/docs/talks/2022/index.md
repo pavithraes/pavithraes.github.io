@@ -1,0 +1,26 @@
+---
+title: "Talks: 2022"
+description: "List of talks I gave in 2022 along with the recordings and materials used."
+lead: ""
+date: 2022-06-04T20:32:00+05:30
+lastmod: 2022-06-04T20:32:00+05:30
+draft: false
+images: []
+menu:
+  docs:
+    parent: "talks"
+weight: 996
+toc: true
+---
+
+## Scaling Data Science with Dask
+
+<i>PyData Delhi Meetup - 21st May</i>
+
+My first in-person presentation since the pandemic!
+
+This is an introductory Dask tutorial for folks new to scalable computing. We cover the basics of parallel and distributed computing, talk about Dask + how Dask works, and check out the Dask DataFrame API.
+
+Recording: (will be added soon)
+
+Material: [GitHub repo](https://github.com/pavithraes/dask-mini-tutorial)

@@ -1,0 +1,42 @@
+---
+title: "Talks: 2020"
+description: "List of talks I gave in 2020 along with the recordings and materials used."
+lead: ""
+date: 2021-04-12T00:22:59+05:30
+lastmod: 2021-04-12T00:22:59+05:30
+draft: false
+images: []
+menu:
+  docs:
+    parent: "talks"
+weight: 998
+toc: true
+---
+
+## Introduction to Data Visualization with Bokeh
+
+<i>PyLadies Hyderabad Meetup - 30st August</i>
+
+Introductory workshop on data visualization with Bokeh. (My first hands-on session, ever!)
+
+Recording: [YouTube](https://youtu.be/vEq5c5sleZw?t=5552)
+
+Material: [GitHub repo](https://github.com/pavithraes/bokeh-workshop)
+
+## Writing a Winning Proposal
+
+<i>[Women of Open Source Community Africa](https://www.oscafrica.org/) and [She Code Africa](https://www.shecodeafrica.org/) Meetup - 9th August</i>
+
+I gave a talk on writing good proposals for open source programs like Google Summer of Code, Outreachy, and Google Season of Docs. It was for a webinar on ["Standing out in OSS Programs Applications"](https://twitter.com/SheCodeAfrica/status/1291078381623222272?s=20).
+
+Recording: [YouTube](https://youtu.be/42QHZ9TRqVQ?t=2364)
+
+Material: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSpTBbRMrj392LO21_-8zKiTnm8Tyxtdx5jlw4Ntmd7Mhe64gcP9dgd4qUxFaENFacMU3UUseiXN2CX/pub?start=false&loop=false&delayms=3000)
+
+## Bokeh QnA Session
+
+<i>PyLadies Amsterdam Meetup - 27th July</i>
+
+A QnA session on Bokeh. :)
+
+Recording: [YouTube](https://youtu.be/5MhlCabsSRw)
