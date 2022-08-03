@@ -4,7 +4,7 @@ description: "Some workflows that make my work as a DevRel professional in the P
 excerpt: "My full-time job at Coiled is to support the Dask community. This involves answering user question, reviewing contributor code, and maintenance activities like fixing bugs and updating the documentation. I have a few systems that make my life as a DevRel professional in the open source PyData space easier."
 date: 2022-07-31T05:58:43+05:30
 lastmod: 2022-08-04T04:30:43+05:30
-draft: false
+draft: true
 weight: 50
 images: ["speedometer.jpg"]
 categories: ["Random"]
@@ -41,7 +41,7 @@ It’s a powerful editor on it’s own, however, these three **extensions** have
 
 VS Code is famous for its rich community of extension developers, and rightfully so. There are a *lot* of extensions, features, and settings that can help, but keeping the PyData+DevRel in mind, these three are must-have's:
 
-- [Python extension, created by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python) has a broad range of super useful features including syntax highlighting, inline docstrings, and much more.
+- [Python extension, maintaned by Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python) has a broad range of super useful features including syntax highlighting, inline docstrings, and much more.
 - [VS Code’s built-in debugger](https://code.visualstudio.com/Docs/editor/debugging) is pretty cool. I love stepping through code in a visual way. Think `pdb`, but more GUI.
 - [GitLens extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) brings a lot of git and version control features directly to vscode. I find the inline git blame and PR descriptions especially useful.
 
@@ -59,7 +59,7 @@ I use the zsh shell with zplug to manage the following plugins:
 
 <p class="text-center"><img src="terminal.png" alt=""></p>
 
-Also, **alises**! They're the most useful part of my terminal setup! I have short aliases for especially for common `git` and `conda` commands. My choices aren't the best here, but they work for me. :)
+Also, **aliases**! They're the most useful part of my terminal setup! I have short aliases for especially for common `git` and `conda` commands. My choices aren't the best here, but they work for me. :)
 
 ```bash
 # Conda
@@ -87,9 +87,9 @@ alias gch='git checkout'
 
 ## Browser and Search Engine
 
-I use the Google Chrome browser and the Duck Duck Go search engine for work. I use pinned tabs and bookmarks minimally, but pretty religiously, to keep my browser organised. Here are a few notes besides that:
+I use the Google Chrome browser and the DuckDuckGo search engine for work. I use pinned tabs and bookmarks minimally, but pretty religiously, to keep my browser organised. Here are a few notes besides that:
 
-- [Duck Duck Go has “bangs”](https://duckduckgo.com/bang), which are shortcuts for search on different website. I mainly use this for searching on Python docs (!python), GitHub (!gh), pandas (!pandas), and (!numpy).
+- [DuckDuckGo has “bangs”](https://duckduckgo.com/bang), which are shortcuts for search on different website. I mainly use this for searching on Python docs (!python), GitHub (!gh), pandas (!pandas), and (!numpy).
 - I refer to some more PyData docs very often like Dask and Bokeh docs. I’ve set up !dask !bokeh, etc., as shortcuts on a browser level to quickly search through these docs too. (Chrome Settings → Search Engine → Site Search → Add)
 - [Grammarly’s browser extension](https://www.grammarly.com/browser) is great to keep my spelling and phrasing correct across the various browser apps. Most of my work outside of coding involves the browser, so this works really well. :)
 
