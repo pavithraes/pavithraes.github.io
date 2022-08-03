@@ -105,7 +105,7 @@ GitHub has just so many nice features and settings that can help you manage thin
 
 <p class="text-center"><img src="dask-community.png" alt=""></p>
 
-- [Refined Github](https://github.com/refined-github/refined-github) is a browser extension. As the name suggests, it makes the experience of using GitHub slightly but significantly(!) smoother. For example, it fixes the height and adds a scroll bar for repositories that have many files in the root directory, so that you can get to the README quickly. (You can see some of these niceties in the image of GitHub above as well!). There are so many such improvements to the overall UX, and I absolutely recommend it!
+- [Refined Github](https://github.com/refined-github/refined-github) is a browser extension. As the name suggests, it makes the experience of using GitHub slightly but significantly(!) smoother. For example, it fixes the height and adds a scroll bar for repositories that have many files in the root directory, so that you can get to the README quickly. (You can see some of these niceties in the image of GitHub above as well!). There are so many such improvements to the overall UX, and I absolutely recommend it.
 
 ## Miscellaneous
 
