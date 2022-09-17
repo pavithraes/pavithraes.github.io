@@ -1,10 +1,10 @@
 ---
 title: "Bullet Journaling - My Setup"
-description: ""
+description: "My thoughts on bullet journalling."
 excerpt: "I’ve been bullet journaling for almost 2 years. In this quick post, I share why I love bullet journaling and what my personal setup looks like."
 date: 2022-09-17T20:39:43+05:30
 lastmod: 2022-09-17T20:39:43+05:30
-draft: true
+draft: false
 weight: 50
 images: ["bullet-journal-header.jpg"]
 categories: ["Random"]
@@ -14,7 +14,7 @@ pinned: false
 homepage: false
 ---
 
-<p><img src="bullet-journal-header.jpg" alt="Two color pencils resting on a notebook which has 'Journal' engraved on it."></p>
+![Two color pencils resting on a notebook which has 'Journal' engraved on it.](bullet-journal-header.jpg)
 
 I've been bullet journaling for almost 2 years. This feels amazing to say because no other planning/organising system has worked for me for more than few weeks me. So, in this quick post, I want to share why I love bullet journaling and what my personal setup looks like.
 
@@ -35,7 +35,7 @@ My bullet journaling setup is on the minimal-er side. I decorate and use colours
 
 ### Monthly spread
 
-<>
+![](monthly.jpg)
 
 This page doesn't have much of a function purpose. I like creating this because it serves as a natural checkpoint — not only in the journal, but also just in general. It gives me a chance to reflect and think about things I'd like to change in the coming month.
 
@@ -43,7 +43,7 @@ As you can see, I just have a calendar setup for September. September is a calm 
 
 ### Weekly spread
 
-<>
+![](weekly.jpg)
 
 This is the important spread.
 
