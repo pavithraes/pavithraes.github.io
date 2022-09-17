@@ -31,7 +31,7 @@ Search for "bullet journal" on Pinterest and you'll find a variety of absolutely
 
 ## My setup
 
-My bullet journaling setup is on the minimal-er side. I decorate and use colours sometimes, but mostly I keep it simple. This reduces the threshold to actually using the journal. I have a regular monthly and weekly spread.
+My bullet journaling setup is on the minimal-er side. I decorate and use colours sometimes, but mostly I keep it simple. This reduces the threshold to actually using the journal. I have a regular monthly and weekly spread, I've shared pictures of their baisc structure below.
 
 ### Monthly spread
 
