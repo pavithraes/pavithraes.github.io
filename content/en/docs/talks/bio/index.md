@@ -1,6 +1,6 @@
 ---
-title: "Bio"
-description: "A standard bio for speaking engagemnets"
+title: "About Me"
+description: "A complete bio for speaking engagements."
 lead: ""
 date: 2022-02-13T18:27:59+05:30
 lastmod: 2022-02-13T18:27:59+05:30
@@ -13,7 +13,7 @@ weight: 999
 toc: true
 ---
 
-Pavithra works as a Community Engagement Manager at [Coiled](https://coiled.io/), where she helps support [Dask](https://dask.org/) users and contributors. She also contributes to the [Bokeh](https://bokeh.org/) project and has worked on administrating [Wikimedia](https://wikimediafoundation.org/)'s open source outreach programs in the past. In her spare time, she enjoys a good book and hot coffee. :)
+Pavithra works as an Open Source Developer Advocate at [Quansight](https://quansight.com/), where she collaborates with the PyData community. She also contributes to the [Bokeh](https://bokeh.org/) and [Dask](https://dask.org/) projects. In her spare time, she enjoys a good book and hot coffee. :)
 
 ### Picture
 
