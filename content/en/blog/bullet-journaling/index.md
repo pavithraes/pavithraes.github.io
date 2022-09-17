@@ -35,7 +35,7 @@ My bullet journaling setup is on the minimal-er side. I decorate and use colours
 
 ### Monthly spread
 
-![](monthly.jpg)
+![In the top half, 'September 2022' written in big block letters within a border created with decorative tape. Botton half has the monthly calendar with some dates ticked tracking vitamins.](monthly.jpg)
 
 This page doesn't have much of a function purpose. I like creating this because it serves as a natural checkpoint — not only in the journal, but also just in general. It gives me a chance to reflect and think about things I'd like to change in the coming month.
 
@@ -43,7 +43,7 @@ As you can see, I just have a calendar setup for September. September is a calm 
 
 ### Weekly spread
 
-![](weekly.jpg)
+![A small-size spiral notebook laid open showing both sides. On the top of the left page, we have the 'Week 1' heading with stars to list the top 5 priorities and dashes for the other priorities. Monday, Tuesday, Wedneday plans are covered in horizontal sections after "Week 1" on the left page and the other days are coverd on the right. Dots are used to list meetings. Ticks indicate 'Done' tasks and circles indicate incomplete tasks that need to moved to a differnet day. There is a sticky note on the bottom right corner on the right page titles 'Brain Dump' to jot down random thoughts.](weekly.jpg)
 
 This is the important spread.
 
@@ -77,6 +77,8 @@ All of that said, it's obviously not a perfect system and I don't use it perfect
 
 Thanks for reading! What is your planning system like? Have you used a bullet journal before? Do you have tips on how I can improve my setup? Let me know on Twitter!
 
-**Attributions**
+---
+
+**Attributions:**
 
 - Header Image: Photo by <a href="[https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Jess Bailey</a> on <a href="[https://unsplash.com/s/photos/bullet-journal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/s/photos/bullet-journal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Unsplash</a>
