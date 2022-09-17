@@ -75,7 +75,7 @@ All of that said, it's obviously not a perfect system and I don't use it perfect
 
 ---
 
-Thanks for reading! What is your planning system like? Have you used a bullet journal before? Do you have tips on how I can improve my setup? Let me know on Twitter!
+Thanks for reading! What is your planning system like? Have you used a bullet journal before? Do you have tips on how I can improve my setup? Let me know on [Twitter](https://twitter.com/pavithraes)!
 
 ---
 
