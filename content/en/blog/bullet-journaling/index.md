@@ -81,4 +81,4 @@ Thanks for reading! What is your planning system like? Have you used a bullet jo
 
 **Attributions:**
 
-- Header Image: Photo by <a href="[https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Jess Bailey</a> on <a href="[https://unsplash.com/s/photos/bullet-journal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](https://unsplash.com/s/photos/bullet-journal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Unsplash</a>
+- Header Image: Photo by <a href="https://unsplash.com/@jessbaileydesigns">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/bullet-journal">Unsplash</a>
