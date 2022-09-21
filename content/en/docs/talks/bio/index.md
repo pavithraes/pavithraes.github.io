@@ -13,7 +13,7 @@ weight: 999
 toc: true
 ---
 
-Pavithra works as an Open Source Developer Advocate at [Quansight](https://quansight.com/), where she collaborates with the PyData community. She also contributes to the [Bokeh](https://bokeh.org/) and [Dask](https://dask.org/) projects. In her spare time, she enjoys a good book and hot coffee. :)
+Pavithra works as an Open Source Developer Advocate at [Quansight](https://quansight.com/), where she loves collaborating with PyData community. She also contributes to the [Bokeh](https://bokeh.org/) and [Dask](https://dask.org/) projects; and has helped administrate [Wikimedia](https://wikimediafoundation.org/)'s outreach programs in the past. In her spare time, she enjoys a good book and hot coffee. :)
 
 ### Picture
 
