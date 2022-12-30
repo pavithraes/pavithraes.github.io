@@ -47,6 +47,7 @@ body.docs {
 @include media-breakpoint-up(md) {
   body {
     font-size: $font-size-md;
+    letter-spacing: 0.8px;
 
     /*
     padding-top: 4rem !important;
