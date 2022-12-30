@@ -15,6 +15,13 @@ homepage: false
 aliases: [/posts/season-of-docs-part-3/]
 ---
 
+{{< alert icon="👉" context="info" >}}
+This post was written in 2019.
+It is likely quite outdated, and may not reflect my current thoughts and beliefs. :)
+{{< /alert >}}
+
+<br>
+
 <p><img src="season-of-docs.png" alt="Wikimedia foundation plus google season of docs"></p>
 
 I like working with the Wikimedia community. I got to interact with some really amazing folks and the overall experience has been wonderful! Even though Season of Docs has officially come to an end, I intend to continue contributing and would welcome interested folks to join us.

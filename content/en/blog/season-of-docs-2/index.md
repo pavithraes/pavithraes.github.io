@@ -15,6 +15,13 @@ homepage: false
 aliases: [/posts/season-of-docs-part-2/]
 ---
 
+{{< alert icon="👉" context="info" >}}
+This post was written in 2019.
+It is likely quite outdated, and may not reflect my current thoughts and beliefs. :)
+{{< /alert >}}
+
+<br>
+
 <p><img src="season-of-docs.png" alt="Wikimedia foundation plus google season of docs"></p>
 
 >- **My mentor is awesome.**

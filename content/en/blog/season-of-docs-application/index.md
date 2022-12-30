@@ -15,6 +15,13 @@ homepage: false
 aliases: [/posts/season-of-socs-part1/]
 ---
 
+{{< alert icon="👉" context="info" >}}
+This post was written in 2019.
+It is likely quite outdated, and may not reflect my current thoughts and beliefs. :)
+{{< /alert >}}
+
+<br>
+
 <p><img src="season-of-docs.png" alt="Wikimedia foundation plus google season of docs"></p>
 
 >* **Persistence is sometimes more important than skill.**
