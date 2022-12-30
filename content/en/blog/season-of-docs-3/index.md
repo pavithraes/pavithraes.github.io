@@ -15,9 +15,9 @@ homepage: false
 aliases: [/posts/season-of-docs-part-3/]
 ---
 
-{{< alert icon="👉" context="info" >}}
+{{< alert icon="❗️" context="info" >}}
 This post was written in 2019.
-It is likely quite outdated, and may not reflect my current thoughts and beliefs. :)
+It is likely quite outdated, and may not reflect my current thoughts and beliefs.
 {{< /alert >}}
 
 <br>
