@@ -4,7 +4,7 @@ description: "A cheat sheet for best communication practices while contributing 
 excerpt: "Free and Open Source software is maintained by people working remotely from around the world. Hence, effective communication is important for any project to function smoothly."
 date: 2020-10-18T05:10:00+05:30
 lastmod: 2022-07-23T17:49:27+05:30
-draft: fasle
+draft: false
 weight: 50
 images: ["hello-unsplash.jpg"]
 categories: ["Open Source"]
@@ -45,7 +45,7 @@ There are various "spaces" where people talk — mailing lists, discussion forum
 ## Asking questions effectively
 
 - **Research and be specific** -  Take a few minutes to Google your question and go through the project documentation before asking questions. Most of the time, you will find the answer without needing to ask someone. If you can't find the answer after say 10-20 mins of searching yourself, go ahead and post the question. Make sure to mention where you searched and what you found. Sometimes, things get buried in the documentation. Asking questions can surface them and the documentation can be improved.
-- **Include all relevant information** - If you are facing a software issue, include relevant information like your operating system, environment, software version, browser info, etc. This helps the developers diagnose the issue accurately, and saves everyone some time.
+- **Include all relevant information** - If you are facing a software issue, include relevant information like your operating system, environment, software version, browser info, etc. along with a [minimal+reproducible example](https://stackoverflow.com/help/minimal-reproducible-example). This helps the developers diagnose the issue accurately, and saves everyone some time.
 - **Be bold** - No question is a dumb question. Really!
 
 > For example, instead of "How do I get started with...", try:
@@ -61,9 +61,3 @@ FOSS contributors and maintainers are volunteers. After posting a question, be p
 This is a fairly recent realization. I have some trouble interacting with people who have a different English accent than me. To be clear, I don't have any trouble in understanding a different English accent, or in speaking English. I just feel like my brain needs to do an extra step of processing and converting before I respond. If you speak more than one language, it's like the bump in the road when you're comprehending in one language and responding in another. (Not exactly, but kind of.)
 
 If this is something you face, it might be a good idea to communicate this openly beforehand.
-
-## Resources
-
-- [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People), a book by Dale Carnegie
-- [Summer training - Communication](https://summertraining.readthedocs.io/en/latest/communication.html#)
-- [The Secret to Business Writing: Crash Course Business - Soft Skills](https://youtu.be/8E-oqahDnb8)
