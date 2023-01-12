@@ -15,6 +15,11 @@ homepage: false
 aliases: [/posts/moment-of-lift-review/]
 ---
 
+{{< alert icon="❗️" context="info" >}}
+This post was written in 2020.
+It is likely quite outdated, and may not reflect my current thoughts and beliefs.
+{{< /alert >}}
+
 <p><img src="thumbnail.png" alt="Moment of lift book cover with an arrow that says good book."></p>
 
 *You can buy it [here](https://www.amazon.com/Moment-Lift-Empowering-Women-Changes/dp/1250313570).*

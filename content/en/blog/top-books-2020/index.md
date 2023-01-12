@@ -15,6 +15,11 @@ homepage: false
 aliases: [/posts/interesting-reads-2020/]
 ---
 
+{{< alert icon="❗️" context="info" >}}
+This post was written in 2020.
+It is likely quite outdated, and may not reflect my current thoughts and beliefs.
+{{< /alert >}}
+
 <p><img src="book-review.png" alt="Book review"></p>
 
 One of my resolutions for 2020 is to read regularly. Reading, especially reading **books**, helps me stay centred. I find it meditative and the hours count towards my "me time".
