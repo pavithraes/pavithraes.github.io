@@ -16,9 +16,7 @@ toc: true
 
 ## Data of an Unusual Size: A practical guide to analysis and interactive visualization of massive datasets
 
-### PyCon US
-
-_19th April_
+### PyCon US - 19th April
 
 A ~3 hour tutorial on the fundaments of big data computation, from distributed computing with Dask to interactive visualization+dashboards with hvPlot+Panel. Read the compete [tutorial abstract on the PyCon US website](https://us.pycon.org/2023/schedule/presentation/64/).
 
@@ -34,9 +32,7 @@ A new version of this tutorial is also accepted for SciPy, details coming soon. 
 
 ## Community-first open source: An action plan!
 
-### PyCon US Maintianer Summit
-
-_21st April_
+### PyCon US Maintianer Summit - 21st April
 
 A step-wise guide for creating community-driven projects, including repository management, contributor pathways, and governance principles. We also share real examples from our journey transitioning a company-backed OSS project, Nebari (https://nebari.dev/), to be more community-oriented.
 
