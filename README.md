@@ -4,7 +4,29 @@ This is my **personal website and blog**, built with the [Doks theme](https://ge
 
 Live at: https://pavithraes.me
 
-## Reference commands
+## Initial setup 💻
+
+```bash
+git clone git@github.com:pavithraes/pavithraes.github.io.git
+```
+
+```bash
+cd pavithraes.github.io
+```
+
+```bash
+conda create -n website-dev nodejs
+```
+
+```bash
+conda activate website-dev
+```
+
+```bash
+npm install
+```
+
+## Reference commands 👩🏻‍💻
 
 Build development site:
 
