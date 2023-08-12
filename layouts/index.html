@@ -5,7 +5,7 @@
       <h1 class="mt-0">Hi! I'm Pavithra. :)</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">I love PyData 🐍 DevRel 🥑 Books 📖 and Coffee ☕</p>
+      <p class="lead">PyData 🐍 DevRel 🥑 Books 📖 Coffee ☕</p>
     </div>
   </div>
 </section>
@@ -16,9 +16,11 @@
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-md-12 col-lg-10 col-xl-8">
-        <p class="lead">I work as a Developer Advocate at <a href="https://quansight.com/" target="_blank">Quansight</a>, where I love collaborating with the PyData community. I also volunteer my time to contribute to the <a href="https://bokeh.org/" target="_blank">Bokeh</a> and <a href="https://dask.org/" target="_blank">Dask</a> projects.</p>
-        <p class="lead">I live in India, and my pronouns are <a href="https://www.mypronouns.org/she-her"
-            target="_blank">she/her</a>.</p>
+        <p class="lead">
+          I'm a Developer Advocate and OSS Sustainer,
+          currently working at <a href="https://quansight.com/" target="_blank">Quansight</a>
+          on developer experience in the PyData community.
+        </p>
       </div>
     </div>
   </div>
@@ -27,34 +29,26 @@
 <section class="section section-sm mt-4 pt-4">
   <!-- <div class="bg-dots"></div> -->
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-md-12 col-lg-10 col-xl-8">
-        <h2 class="h3 text-center mt-0">Latest Blog Posts</h2>
-      </div>
-    </div>
-
     <div class="row row-cols-1 row-cols-lg-2 g-lg-5">
-      {{ $paginator := .Paginate (where .Site.Pages "Section" "blog") -}}
-      {{ range first 2 $paginator.Pages -}}
       <div class="col">
         <div class="card">
-          {{- .Scratch.Set "fillImage" "1270x620 Center" -}}
-          {{ partial "content/card-image.html" . }}
-          <div class="card-body">
-            <article>
-              <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
-              <p>{{ .Params.excerpt | safeHTML }}</p>
-              {{ partial "main/blog-meta.html" . -}}
-            </article>
-          </div>
+          <a class="stretched-link text-body" href="/blog"></a>
+          <img class="card-img-top img-fluid blur-up lazyloaded"
+             width="1270" height="620"
+             src="/images/blog.png"
+             alt="Blog"
+            />
         </div>
       </div>
-      {{ end -}}
-    </div>
-
-    <div class="row justify-content-center">
-      <div class="col-md-12 col-lg-10 col-xl-8 card-body text-center">
-        <a class="btn btn-primary btn-lg px-4 mt-4 mb-2" href="/blog" role="button">See all posts</a>
+      <div class="col">
+        <div class="card">
+          <a class="stretched-link text-body" href="/docs/talks"></a>
+          <img class="card-img-top img-fluid blur-up lazyloaded "
+             width="1270" height="620"
+             src="/images/talks.png"
+             alt="Talks"
+            />
+        </div>
       </div>
     </div>
   </div>
