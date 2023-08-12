@@ -65,10 +65,10 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1280x740 Center" # normalize image size
 
 # Footer
-footer = "© 2020-2022 Pavithra Eswarmoorthy"
+footer = "© 2020-2023 Pavithra Eswarmoorthy"
 
 # Feed
-copyRight = "© 2020-2022 Pavithra Eswarmoorthy"
+copyRight = "© 2020-2023 Pavithra Eswarmoorthy"
 
 # Alert
 alert = false
