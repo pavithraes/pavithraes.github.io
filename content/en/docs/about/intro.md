@@ -27,6 +27,7 @@ I'm a Developer Relations professional and an Open Source Sustainer, with over f
 ## Work & Open Source
 
 In my current role at [Quansight](https://quansight.com/) and [Quansight Labs](https://labs.quansight.org/), I work on developer experience initiatives in the PyData ecosystem. In addition to company-wide awareness and community-wide sustainability activities, I focus on two younger community OSS projects:
+
 * [Nebari](https://nebari.dev/) - data science platform that builds on the JupyterHub project
 * [conda-store](https://conda.store/) - user-friendly and collaboration-first environment management library that build on the conda ecosystem
 
