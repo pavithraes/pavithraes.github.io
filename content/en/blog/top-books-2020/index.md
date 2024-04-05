@@ -15,10 +15,10 @@ homepage: false
 aliases: [/posts/interesting-reads-2020/]
 ---
 
-{{< alert icon="❗️" context="info" >}}
+{{< callout context="alert" title="Warning" icon="alert-triangle" >}}
 This post was written in 2020.
 It is likely quite outdated, and may not reflect my current thoughts and beliefs.
-{{< /alert >}}
+{{< /callout >}}
 
 <p><img src="book-review.png" alt="Book review"></p>
 

@@ -15,10 +15,10 @@ homepage: false
 aliases: [/posts/moment-of-lift-review/]
 ---
 
-{{< alert icon="❗️" context="info" >}}
+{{< callout context="alert" title="Warning" icon="alert-triangle" >}}
 This post was written in 2020.
 It is likely quite outdated, and may not reflect my current thoughts and beliefs.
-{{< /alert >}}
+{{< /callout >}}
 
 <p><img src="thumbnail.png" alt="Moment of lift book cover with an arrow that says good book."></p>
 
