@@ -1,8 +1,8 @@
 {{ define "main" }}
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
-    <div class="col-lg-12 text-center">
-      <h1>Hi! I'm Pavithra. :)</h1>
+    <div class="col-lg-12 text-center ">
+      <h1 class="mt-0">Hi! I'm Pavithra. :)</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">PyData 🐍 DevRel 🥑 Books 📖 Coffee ☕</p>
@@ -24,16 +24,11 @@
       </div>
       <div class="row justify-content-center">
         <div class="col-md-12 col-lg-10 col-xl-8 card-body text-center">
-          <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/about/about-me/" role="button">About Me</a>
+          <a class="btn btn-primary btn-lg px-4 mt-4 mb-2" href="/docs/about/intro" role="button">About Me</a>
         </div>
       </div>
     </div>
   </div>
-  {{ if site.Params.doks.backgroundDots -}}
-  <div class="d-flex justify-content-start">
-    <div class="bg-dots"></div>
-  </div>
-  {{ end -}}
 </section>
 
 <section class="section section-sm">
