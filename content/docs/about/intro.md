@@ -12,6 +12,7 @@ menu:
     identifier: "intro-370fbec192f06a869446b588bd16b331"
 weight: 999
 toc: true
+aliases: [/docs/about/intro/]
 ---
 
 Hi! My name is Pavithra Eswaramoorthy[^1]. :wave:

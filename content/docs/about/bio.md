@@ -8,9 +8,16 @@ draft: false
 images: []
 weight: 999
 toc: true
+aliases: [/docs/about/bio/]
 ---
 
-**Pavithra Eswaramoorthy** is a Developer Advocate at [Quansight](https://quansight.com/), where she works to improve the developer experience and community engagement for several open source projects in the PyData community. Currently, she maintains the [Bokeh visualization library](https://bokeh.org/), and contributes to the [Nebari](https://www.nebari.dev/) (adjacent to the Jupyter community) and [conda-store](https://github.com/conda-incubator/conda-store) (part of the conda ecosystem) projects. Pavithra has been involved in the open source community for over 5 years, notable as a maintainer of the [Dask](https://dask.org/) library and an administrator for [Wikimedia](https://www.wikimedia.org/)’s OSS programs. In her spare time, she enjoys a good book and hot coffee. :)
+**Pavithra Eswaramoorthy** is a Developer Advocate at [Quansight](https://quansight.com/), where she works to improve the developer experience and community engagement for several open source projects in the PyData community.
+
+Currently, she maintains the [Bokeh visualization library](https://bokeh.org/), and contributes to the [Nebari](https://www.nebari.dev/) (adjacent to the Jupyter community), [conda-store](https://github.com/conda-incubator/conda-store) (part of the conda ecosystem), and [Ragna](https://ragna.chat)  (RAG orchestration framework) projects.
+
+Pavithra has been involved in the open source community for over 5 years, notable as a maintainer of the [Dask](https://dask.org/) library and an administrator for [Wikimedia](https://www.wikimedia.org/)’s OSS programs.
+
+In her spare time, she enjoys a good book and hot coffee. :)
 
 ### Name Pronounciation
 
