@@ -13,6 +13,10 @@ git clone git@github.com:pavithraes/pavithraes.github.io.git
 ```
 
 ```bash
+cd pavithraes.github.io
+```
+
+```bash
 npm install
 ```
 
@@ -33,5 +37,5 @@ npm run create blog/<slug>/index.md
 Create new talk-year:
 
 ```bash
-npm run create docs/talks/<YYYY>/index.md
+npm run create docs/talks/2024.md
 ```
