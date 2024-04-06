@@ -6,20 +6,10 @@ Live at: https://pavithraes.me
 
 ## Initial setup 💻
 
+Pre-requisites: Git, Nodejs
+
 ```bash
 git clone git@github.com:pavithraes/pavithraes.github.io.git
-```
-
-```bash
-cd pavithraes.github.io
-```
-
-```bash
-conda create -n website-dev nodejs
-```
-
-```bash
-conda activate website-dev
 ```
 
 ```bash
@@ -31,7 +21,7 @@ npm install
 Build development site:
 
 ```bash
-npm run start
+npm run dev
 ```
 
 Create new blog:
