@@ -1,7 +1,7 @@
 ---
 title: "About me"
 description: ""
-lead: ""
+summary: ""
 date: 2023-08-12T18:44:15+05:30
 lastmod: 2023-08-12T18:44:15+05:30
 draft: false
