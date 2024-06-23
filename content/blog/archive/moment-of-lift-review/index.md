@@ -4,7 +4,7 @@ description: "Review of Moment of Lift by Melinda Gates."
 excerpt: "Melinda Gates shares her personal stories including how she got interested in tech, her relationship with Bill Gates, her path to equal partnership, her experiences, her learnings and more."
 date: 2020-08-11T01:30:00+05:30
 lastmod: 2022-07-23T18:09:27+05:30
-draft: false
+draft: true # Archived
 weight: 50
 images: ["thumbnail.png"]
 categories: ["Books"]

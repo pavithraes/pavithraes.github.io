@@ -4,7 +4,7 @@ description: "A list of my favorite books of 2020 along with some brief reviews.
 excerpt: "I read some good books in 2020, I want to share them here."
 date: 2020-08-21T02:35:00+05:30
 lastmod: 2021-04-12T00:57:51+05:30
-draft: false
+draft: true # Archive
 weight: 50
 images: ["book-review.png"]
 categories: ["Books"]

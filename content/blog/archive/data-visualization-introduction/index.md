@@ -4,7 +4,7 @@ description: "What, why, and how, of data visualization."
 excerpt: "In general, it is the visual representation of some data. Right? Well... not quite. It is a little more nuanced and fascinating."
 date: 2020-08-21T17:00:00+05:30
 lastmod: 2022-07-23T18:03:08+05:30
-draft: false
+draft: true # Archived
 weight: 50
 images: ["data-viz.png"]
 categories: ["Data Science"]

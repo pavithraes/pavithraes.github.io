@@ -4,7 +4,7 @@ description: "Second phase of Google Season of Docs 2019 with the Wikimedia Foun
 excerpt: ""
 date: 2019-11-29T14:10:00+05:30
 lastmod: 2022-07-23T18:23:35+05:30
-draft: false
+draft: true # Archive
 weight: 50
 images: ["season-of-docs.png"]
 categories: ["Documentation", "Open Source"]

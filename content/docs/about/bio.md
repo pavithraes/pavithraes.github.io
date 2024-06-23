@@ -19,6 +19,6 @@ Pavithra has been involved in the open source community for over 5 years, notabl
 
 In her spare time, she enjoys a good book and hot coffee. :)
 
-### Name Pronounciation
+### Name Pronunciation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCC8jMaKQLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

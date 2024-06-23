@@ -4,7 +4,7 @@ description: "Summary of this book by Marshall Goldsmith"
 excerpt: "Successful people have 4 primary beliefs, it’s why they’re successful, but it’s also why they resist change. It’s important we acknowledge and understand these."
 date: 2020-05-23T11:20:00+05:30
 lastmod: 2022-07-23T18:20:33+05:30
-draft: false
+draft: true # Archive
 weight: 50
 images: ["thumbnail.png"]
 categories: ["Books"]

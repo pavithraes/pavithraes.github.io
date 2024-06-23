@@ -27,16 +27,17 @@ I'm a Developer Relations professional and an Open Source Sustainer, with over f
 
 ## Work & Open Source
 
-In my current role at [Quansight](https://quansight.com/) and [Quansight Labs](https://labs.quansight.org/), I work on developer experience initiatives in the PyData ecosystem. In addition to company-wide awareness and community-wide sustainability activities, I focus on two younger community OSS projects:
+In my current role at [Quansight](https://quansight.com/) and [Quansight Labs](https://labs.quansight.org/), I work on developer experience initiatives in the PyData ecosystem. In addition to company-wide awareness and community-wide sustainability activities, I focus on relatively young community OSS projects:
 
 * [Nebari](https://nebari.dev/) - data science platform that builds on the JupyterHub project
 * [conda-store](https://conda.store/) - user-friendly and collaboration-first environment management library that build on the conda ecosystem
+* [Ragna](https://ragna.chat/en/stable/) - Retrieval-augmented generation (RAG) orchestration framework
 
-I'm also a part of the core team at [Bokeh](https://bokeh.org/) - a Python library for interactive data visualization. I work on maintenance initiatives including fundraising, developer workflows, project management, and mentorship programs. In my previous DevRel role at [Coiled](https://www.coiled.io/), I worked extensively on [Dask](https://dask.org/) with a focus on user and contributor support, OSS project maintenance, community engagement, and dev-evangelism. I started my OSS journey with the [Wikimedia Foundation](https://wikimediafoundation.org/) as a [Google Season of Docs technical writer](https://www.mediawiki.org/wiki/User:Pavithraes/Season_of_Docs_-_Project_report), and continued contributing as a volunteer to co-administrate several open source outreach programs.
+I'm also a part of the core team at [Bokeh](https://bokeh.org/) - a Python library for interactive data visualization. I work on maintenance initiatives including fundraising, developer workflows, project management, and mentorship programs. In my previous DevRel role at [Coiled](https://www.coiled.io/), I worked on [Dask](https://dask.org/) with a focus on user and contributor support, OSS project maintenance, community engagement, and dev-evangelism. I started my OSS journey with the [Wikimedia Foundation](https://wikimediafoundation.org/) as a [Google Season of Docs technical writer](https://www.mediawiki.org/wiki/User:Pavithraes/Season_of_Docs_-_Project_report), and continued contributing as a volunteer to co-administrate several open source outreach programs.
 
 ## Values
 
-✨ Always be kind, always be awesome
+✨ Be kind, always
 
 👩🏼‍🎤 Value people before profit
 

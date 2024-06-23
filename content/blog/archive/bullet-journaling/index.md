@@ -4,7 +4,7 @@ description: "My thoughts on bullet journalling."
 excerpt: "I’ve been bullet journaling for almost 2 years. In this quick post, I share why I love bullet journaling and what my personal setup looks like."
 date: 2022-09-17T20:39:43+05:30
 lastmod: 2022-09-17T20:39:43+05:30
-draft: false
+draft: true # Archived
 weight: 50
 images: ["bullet-journal-header.jpg"]
 categories: ["Random"]

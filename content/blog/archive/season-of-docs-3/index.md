@@ -4,7 +4,7 @@ description: "Last phase of Google Season of Docs 2019 with the Wikimedia Founda
 excerpt: ""
 date: 2019-11-29T20:55:00+05:30
 lastmod: 2022-07-23T18:22:24+05:30
-draft: false
+draft: true # Archive
 weight: 50
 images: ["season-of-docs.png"]
 categories: ["Documentation", "Open Source"]
