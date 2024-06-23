@@ -6,7 +6,6 @@ date: 2020-08-24T19:30:00+05:30
 lastmod: 2022-07-23T18:13:03+05:30
 draft: false
 weight: 50
-images: ["abc.jpg"]
 categories: ["Documentation"]
 tags: ["Communication", "DevRel"]
 contributors: ["Pavithra Eswaramoorthy"]
@@ -14,8 +13,6 @@ pinned: false
 homepage: false
 aliases: [/posts/plain-english/]
 ---
-
-<p><img src="abc.jpg" alt="alphabet block toys"></p>
 
 ***Plain English is clear and concise English.***
 

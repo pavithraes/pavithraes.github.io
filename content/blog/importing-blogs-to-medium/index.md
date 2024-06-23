@@ -6,7 +6,6 @@ date: 2020-07-06T23:00:00+05:30
 lastmod: 2022-07-23T18:06:55+05:30
 draft: false
 weight: 50
-images: ["writing.jpg"]
 categories: ["Random"]
 tags: ["Bokeh"]
 contributors: ["Pavithra Eswaramoorthy"]
@@ -14,8 +13,6 @@ pinned: false
 homepage: false
 aliases: [/posts/importing-to-medium/]
 ---
-
-<p><img src="writing.jpg" alt="A typewriter that has written the word 'writing' in big bold letters."></p>
 
 [Bokeh](https://bokeh.org/) recently decided to move it's blog, hosted at https://blog.bokeh.org/, to the popular publishing platform [Medium](https://medium.com). This comes with a set of advantages and disadvantages, but we won't go there today. The decision was taken after careful consideration and after listening to both sides of the debate. Let's leave it at that.
 

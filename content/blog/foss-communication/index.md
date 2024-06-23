@@ -6,7 +6,6 @@ date: 2020-10-18T05:10:00+05:30
 lastmod: 2022-07-23T17:49:27+05:30
 draft: false
 weight: 50
-images: ["hello-unsplash.jpg"]
 categories: ["Open Source"]
 tags: ["Communication", "DevRel"]
 contributors: ["Pavithra Eswaramoorthy"]
@@ -14,8 +13,6 @@ pinned: false
 homepage: false
 aliases: [/posts/foss-communication/]
 ---
-
-<p><img src="hello-unsplash.jpg" alt="sign hung on a wall showing hello written in a comment bubble"></p>
 
 Free and Open Source software is maintained by people working remotely from around the world. Hence, effective communication is important for any project to function smoothly.
 
